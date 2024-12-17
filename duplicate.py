@@ -14,4 +14,4 @@ for i in d:
 
 n=len(arr)
 m=((n+1)*(n))//2 
-print(duplicate,m-a+duplicate)
+print(duplicate,m-a+duplicate, 'jugu')
